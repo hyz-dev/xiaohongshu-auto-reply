@@ -1,0 +1,6 @@
+# Excel backup files
+xiaohongshu_replies_log_backup.xlsx
+~$*.xlsx
+
+# Simulation logs (local only)
+simulation_behavior_log.xlsx
